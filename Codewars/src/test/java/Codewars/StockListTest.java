@@ -1,9 +1,9 @@
-
+package Codewars;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-public class StockListTestSuite {
+public class StockListTest {
 	
 		@Test
 		public void test1() { 

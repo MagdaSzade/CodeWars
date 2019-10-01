@@ -1,3 +1,4 @@
+package Codewars;
 
 public class StockList {
 	// 1st parameter is the stocklist (L in example), 
